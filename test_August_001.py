@@ -35,7 +35,7 @@ class Test_Credence:
         # time.sleep(2)
 
         # 5. Click on login
-        driver.find_element(By.CSS_SELECTOR, "button[type='submit']").click()
+
         time.sleep(2)
 
         try:
